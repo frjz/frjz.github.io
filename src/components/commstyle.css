@@ -1,0 +1,21 @@
+.jumbotron {
+  text-align: center;
+}
+td{
+  padding: .4em;
+}
+.comName{
+  width: 70%;
+  text-align: 'left';
+}
+table{
+  width: 100%;
+  table-layout: fixed;
+}
+
+.dateTable{
+  width: 30%;
+}
+.nameTag{
+  font-weight:"bold";
+}
